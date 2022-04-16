@@ -32,14 +32,15 @@
 }
 /* ///////////////////////////////////// */
 .card {
-  min-width: 300px !important;
+  min-width: 260px !important;
   max-width: 650px;
   height: 550px;
   box-shadow: 0px 0px 15px 5px black;
   border-radius: 10px;
+  margin: 20px;
 }
 .card-image {
-  min-width: 300px;
+  min-width: 260px;
   max-width: 650px;
   height: 440px;
 }
@@ -51,7 +52,6 @@
 }
 .card-content {
   padding: 5px 15px;
-  width: 300px;
 }
 .card-title {
   font-size: 23px;
@@ -65,8 +65,7 @@
 /* ////////////////////////// */
 
 .movies {
-  gap: 45px;
-  width: auto;
+  width: 100%;
 }
 
 /* /////////////////// */
