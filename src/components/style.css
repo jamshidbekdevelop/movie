@@ -37,7 +37,7 @@
   height: 550px;
   box-shadow: 0px 0px 15px 5px black;
   border-radius: 10px;
-  margin: 20px;
+  margin: 10px;
 }
 .card-image {
   min-width: 260px;
@@ -51,10 +51,10 @@
   border-top-right-radius: 10px;
 }
 .card-content {
-  padding: 5px 15px;
+  padding: 10px 15px;
 }
 .card-title {
-  font-size: 23px;
+  font-size: 2.3vh;
   color: rgb(130, 133, 132);
 }
 
